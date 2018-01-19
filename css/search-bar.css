@@ -13,8 +13,9 @@
   text-align: center;
 }
 
+
 .search-bar i {
   position: absolute;
-  top:15px;left:40px
+  top:15px;left:40px;
   color: #bbb;
 }

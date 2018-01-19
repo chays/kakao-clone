@@ -19,6 +19,13 @@
   justify-content: space-between;
 }
 
+.friends_section-tagline{
+  font-size:12px;background:#f0f0f0;
+  padding:10px;
+  border-radius:5px;
+  color:#969696;
+}
+
 .friends_section-row img {
   width: 40px;
   border-radius: 50%;
